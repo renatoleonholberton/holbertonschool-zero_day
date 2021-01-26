@@ -1,1 +1,1 @@
-**README file** **Strong**
+**README file for vagrant project**

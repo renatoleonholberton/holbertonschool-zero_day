@@ -9,7 +9,7 @@ Vim is included with almost every Linux distribution.
 ### Question #1
 How do you enter Command Mode in Vi(m)?
 - [ ] Ctrl / Command + C
-- [x] \<ESC>
+- [x] `<ESC>`
 - [ ] `<Return>`
 
 ### Question #2

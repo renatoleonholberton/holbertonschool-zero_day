@@ -5,7 +5,7 @@ This proyect is about Emacs and how to use it's mains features
 In Emacs documentation, what does C in a shortcut command stand for?
 - [x] Command
 - [x] Ctrl
-- [ ]Shift + C
+- [ ] Shift + C
 
 ### Question #1
 In Emacs documentation, what does M in a shortcut command stand for?

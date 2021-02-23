@@ -25,7 +25,7 @@ You can only have one buffer open in Emacs at a time.
 
 ### Question #4
 What question should you ask yourself **first** when something doesnt work as expected?
-- [ ] Why?
+- [x] Why?
 - [ ] What can I Google to find the solution?
 - [ ] Who can help me?
 

@@ -85,25 +85,25 @@ For this project, students are expected to look at these concepts:
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.hbtn.io/rltoken/rrdYFuOfeb9zMH57MmZ16g), **without the help of Google**:
 
 ### General
-- What is Emacs
-- Who is Richard Stallman
-- How to open and save files
-- What is a buffer and how to switch from one to the other
-- How to use the mark and the point to set the region
-- How to cut and paste lines and regions
-- How to search forward and backward
-- How to invoke commands by name
-- How to undo
-- How to cancel half-entered commands
-- How to quit Emacs
+* What is Emacs
+* Who is Richard Stallman
+* How to open and save files
+* What is a buffer and how to switch from one to the other
+* How to use the mark and the point to set the region
+* How to cut and paste lines and regions
+* How to search forward and backward
+* How to invoke commands by name
+* How to undo
+* How to cancel half-entered commands
+* How to quit Emacs
 
 ### Requirements
 #### General
-- Allowed editors: Emacs
-- A ``README.md`` file at the root of the ``holbertonschool-zero_day`` repo, containing a description of the repository
-- A ``README.md`` file, at the root of the folder of this project (e.g. ``0x01-emacs``), describing what this project is about
-- Each answer should be written in a file with the same syntax as Emacss documentation (ex: ``C-h t``)
--	Your file should only contain the command, and nothing else
+* Allowed editors: Emacs
+* A ``README.md`` file at the root of the ``holbertonschool-zero_day`` repo, containing a description of the repository
+* A ``README.md`` file, at the root of the folder of this project (e.g. ``0x01-emacs``), describing what this project is about
+* Each answer should be written in a file with the same syntax as Emacss documentation (ex: ``C-h t``)
+*	Your file should only contain the command, and nothing else
 
 ###	More Info
 #### Install ``emacs``
@@ -113,3 +113,39 @@ $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install emacs
 ```
+
+
+## [0x02. vi](0x02-vi)
+### Concepts
+For this project, students are expected to look at these concepts:
+* [Source code management](https://intranet.hbtn.io/concepts/22)
+* [Using Vi as editor](https://intranet.hbtn.io/concepts/55)
+* [Git and Github cheat sheet - Everything in less than 30 seconds](https://intranet.hbtn.io/concepts/57)
+* [The Framework](https://intranet.hbtn.io/concepts/75)
+* [Approaching a Project](https://intranet.hbtn.io/concepts/350)
+
+### Resources
+**Read or watch:**
+* [Basic vi Commands](https://intranet.hbtn.io/rltoken/TvhnXN1GAP7Et5OSuceGqw)
+
+### Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.hbtn.io/rltoken/TIOLxjJDcvo85CcmLgsIVA), without the help of Google:
+
+#### General
+* What is vi
+* Who is Bill Joy
+* How to start and exit vi
+* What are the command and insert modes, and how to switch from one to the other
+* How to edit text
+* How to cut and paste lines
+* How to search forward and backward
+* How to undo
+* How to quit vi
+
+### Requirements
+#### General
+* Allowed editors: vi
+* A ``README.md`` file at the root of the ``holbertonschool-zero_day`` repo, containing a description of the repository
+* A ``README.md`` file, at the root of the folder of this project (i.e. 0x02-vi), describing what this project is about
+* If the answer of one of the following questions needs the ``Return`` key, then use the string ``<Return>``. Example: What is the command to write current contents to a file named in the original vi call? The answer should be exactly ``:w<Return>``. Note that there is no space between ``w`` and ``<Return>``
+* Your file should only contain the command, and nothing else
